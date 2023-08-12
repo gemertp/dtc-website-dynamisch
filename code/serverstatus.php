@@ -11,6 +11,7 @@
     echo "<body>";
 
     echo "<h1>Server status</h1>";
+    echo "Git versie";
     echo "<hr>";
 
     echo "<h2>Servertijd</h2>";
